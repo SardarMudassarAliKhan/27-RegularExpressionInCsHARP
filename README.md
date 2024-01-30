@@ -1,4 +1,4 @@
-I can help you with regular expressions in C#. Regular expressions are a powerful tool for pattern matching and text manipulation in C#. Here's a basic example of how you can use regular expressions in C#:
+Regular expressions in C#. Regular expressions are a powerful tool for pattern matching and text manipulation in C#. Here's a basic example of how you can use regular expressions in C#:
 
 ```csharp
 using System;
